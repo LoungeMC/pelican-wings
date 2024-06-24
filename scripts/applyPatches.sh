@@ -29,4 +29,4 @@ function patchIt() {
   echo "The patch has been applied successfully."
 }
 
-patchIt 0001-different-data-sftp-dirs
+patchIt 0001-different-data-sftp-dirs.patch
